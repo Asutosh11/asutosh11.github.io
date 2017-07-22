@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   },
   "urls": {
     "site": "https://Asutosh11.github.io",
     "hubpress": "https://asutosh11.github.io",
-    "theme": "//Asutosh11.github.io/themes/uno",
+    "theme": "//Asutosh11.github.io/themes/uno-zen",
     "images": "https://Asutosh11.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -25,10 +25,10 @@
     ]
   },
   "site": {
-    "title": "",
-    "description": "",
-    "logo": "",
-    "cover": "",
+    "title": "Asutosh writes",
+    "description": "Hi. Asutosh here. Coder and Designer",
+    "logo": "https://cdn.pixabay.com/photo/2017/06/15/01/50/logo-2403862_960_720.png",
+    "cover": "https://cdn.pixabay.com/photo/2017/04/07/18/23/landscape-2211587_960_720.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
