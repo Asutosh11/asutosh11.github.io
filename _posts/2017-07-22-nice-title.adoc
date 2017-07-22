@@ -1,0 +1,8 @@
+= nice title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+Publishing Posts. After you have finished writing and revising your posts you can publish your post so that it will be made publicly available. To publish a post you need to click the publish button in the bottom right side of the post editor page.
